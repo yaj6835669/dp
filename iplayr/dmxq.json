@@ -1,4 +1,4 @@
-{
+{https://www.dmfl3.com/vodshow/35--------2---.html
 "uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
 "title":"大米星球",
 "episode_flag":true,
@@ -24,6 +24,11 @@
 			"title": "综艺",
 		"url0": "https://www.dmxq.fun/vodshow/23-----------.html",
 			"url1": "https://www.dmxq.fun/vodshow/23--------{pg}---.html"
+		},
+		 {
+			"title": "福利",
+		"url0": "https://www.dmfl3.com/vodshow/35-----------.html",
+			"url1": "https://www.dmfl3.com/vodshow/35--------{pg}---.html"
 		}
 	],    
 
