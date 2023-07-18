@@ -1,33 +1,53 @@
 {
 "uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
-"title":"91吃瓜中心",
+"title":"大米星球1",
 "episode_flag":true,
 "landscape_flag":false,
 "referer":"",
 "open_with_safari_flag":true,
 "category": [{
-			"title": "吃瓜",
-			"url0": "https://www1.91cg2.co/",
-			"url1": "https://www1.91cg2.co/page/{pg}/"
+			"title": "电影",
+			"url0": "https://www.dmxq.fun/vodshow/20-----------.html",
+			"url1": "https://www.dmxq.fun/vodshow/20--------{pg}---.html"
+		},
+		{
+			"title": "电视",
+      "url0": "https://www.dmxq.fun/vodshow/21-----------.html",
+			"url1": "https://www.dmxq.fun/vodshow/21--------{pg}---.html"
+		},
+     {
+			"title": "动漫",
+	"url0": "https://www.dmxq.fun/vodshow/22-----------.html",
+			"url1": "https://www.dmxq.fun/vodshow/22--------{pg}---.html"
+		},
+                  {
+			"title": "综艺",
+		"url0": "https://www.dmxq.fun/vodshow/23-----------.html",
+			"url1": "https://www.dmxq.fun/vodshow/23--------{pg}---.html"
+		},
+		 {
+			"title": "福利",
+		"url0": "https://www.dmfl3.com/vodshow/35-----------.html",
+			"url1": "https://www.dmfl3.com/vodshow/35--------{pg}---.html"
 		}
 	],    
 
-"vod_node":"//div[contains(@id, 'index')]/a",
+"vod_node":"//div[contains(@class, 'module-items')]/a",
 "vod_info":"",
-"vod_score":"",
-"vod_title":"//h2[@class='post-card-title']",
-"vod_image_id":"",
+"vod_score":"//div[@class='module-item-douban']",
+"vod_title":"//div[@class='module-poster-item-title']",
+"vod_image_id":"//img/@data-original",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//a/@href",
-"vod_link_url":"https://www1.91cg2.co{id}",
+"vod_link_url":"https://www.dmxq.fun{id}",
 "play_regex":"",
 "play_url":"",
 "playlist_flag":true,
 "playlist_group_node":"//div[@class='module-play-list']",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
-"playlist_link_url":"https://www1.91cg2.co{id}",
+"playlist_link_url":"https://www.dmxq.fun{id}",
 "playlist_info":"//div[contains(@class, 'module-info-introduction-content')]//p",
 "search_flag":false,
 "search_url_first_page":"",
